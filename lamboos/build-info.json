@@ -1,0 +1,54 @@
+{
+  "name": "ads-sdk-lamboos",
+  "sdkApiVersion": "0.2",
+  "partnerConfigId": "blombo-io",
+  "clid": "p_5bab71de-0cc6-42a9-be28-4ce95eaf42bd",
+  "sourceConfigUrl": "https://playgama.com/ads/blombo.io.v0.2.js",
+  "sourceCommit": "deb450b099e7969bc369acf649cadf8f97ae6430",
+  "builtAt": "2026-10-19T12:13:34.478242+00:00",
+  "placements": [
+    "interstitial",
+    "rewarded",
+    "interstitial_preroll"
+  ],
+  "forcedGptSharedModeProviders": [
+    "gam-h5",
+    "gam-banner-interstitial"
+  ],
+  "gptPublisherProvidedId": "not set by shared GPT providers",
+  "checks": {
+    "partnerConfigPlatforms": [
+      "desktop",
+      "android",
+      "ios"
+    ],
+    "unitTestsPassed": 68,
+    "buildConfigTestsPassed": 3,
+    "bundleLoadSmoke": "passed",
+    "typescript": "passed",
+    "localReview": "passed; no independent review"
+  },
+  "files": {
+    "README.md": "a89fbacdd91d226bcd2b7dc5b2f696eb6388adfe91f96dfc39e598f0d117a24a",
+    "ads-sdk-lamboos.js": "60c1a178af4b33de1ee6a8a94a8ab3f82a65704363ebeccaa5fc812188f1403d",
+    "partner-config.json": "e1ffb906d3cd3fe9f70b8ee37ec89226c7c10799b2e639139f940f7ddbafa6c6",
+    "static/image/jogos-360-logo.6fc324cc.webp": "4a5d7ffc20e9ac0007201920c04eeabc997a50ef4bfd845e8be5047e9333651d",
+    "static/image/lagged-logo.17532524.webp": "e8f2accb4dadff59dae65e3b0dfeafe9eca6173bb537ea431ab343feff2ac03d",
+    "static/image/play-games.3a754663.webp": "8d2e3d50644248dd24c39b0e85f90a3299d67ae47d20474b1438cc882194a6e4",
+    "static/image/pockethaven.45b9e857.webp": "61f2116a94089d860b362feff2136cfb60d4b98ead0d2404fcf6036c03006883",
+    "static/js/async/105.f192ef5f.js": "91b7a661f87e378ea029535a335bca27ffe105b4f824a249b2a89e6b59469237",
+    "static/js/async/173.b17d2ac8.js": "938c5e941f278f7de4d807a126350a473313f682f9e78aa79d1e96a0a8441745",
+    "static/js/async/220.e9e4292e.js": "e19754e7782cf8ed8760523128024e8c980543bed9ca751d59ea44ba6ad59df4",
+    "static/js/async/397.59571b51.js": "7fd3c90f4d0e1a17139e2e9dcd19cc3896c512087680a8f9ab02beafe7f7a650",
+    "static/js/async/397.59571b51.js.LICENSE.txt": "d151fe56f9a1d892bc5cb3b997883cb870877b09ab5e89a007696331aa21179e",
+    "static/js/async/409.7bc9b8af.js": "9e7a9df7824c8425561f126e80cb821257733eaab3849d0fef568ccde0b83c5d",
+    "static/js/async/469.1ea91bd0.js": "759069a48732f4985d6beba02a289056138d0de9000545d8814d755213ea180e",
+    "static/js/async/608.66c5daa4.js": "fe9bc34ccd273ee0cd0bc4338e983cba7e83aba9c2e5aabddbedd0f187383389",
+    "static/js/async/608.66c5daa4.js.LICENSE.txt": "08b5bb560e74ccb66efeb8732a642e633295599528b908c15c3afa650d95da07",
+    "static/js/async/670.51b98efe.js": "4000adefa639db331217c084093f28b3ac5c3f95111a02f8f0be58144e8669cb",
+    "static/js/async/675.33e33576.js": "e71a1d69d453e785f7f75497b314318d5ecb35cd4148d457875ea06d5bb93deb",
+    "static/js/async/764.84ad6ea5.js": "6bd82ffa0bc390afe225082ff89859f810fd5912333d2f55d7acf917cb4efa7a",
+    "static/js/async/867.e99174a8.js": "a11f74e5b2800b5bde8c55c072c59da2ea0c09e0c8383c540e3d2c83304a4801",
+    "static/media/sample-video.a6694a8e.webm": "cd9dc6be78effa5f057f4a452667bc3a60dc5b2414587c9178afcb69f1f9e784"
+  }
+}

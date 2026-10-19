@@ -1,0 +1,136 @@
+{
+  "id": "blombo-io",
+  "playgama_clid": "p_5bab71de-0cc6-42a9-be28-4ce95eaf42bd",
+  "providers": [
+    {
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "settings": [
+        {
+          "type": "gam-h5",
+          "ad_units_desktop": [
+            {
+              "ad_type": "interstitial",
+              "value": "playgama_partners_h5_interstitial"
+            },
+            {
+              "ad_type": "rewarded",
+              "value": "playgama_partners_rewarded"
+            }
+          ],
+          "ad_units_mobile": [
+            {
+              "ad_type": "interstitial",
+              "value": "playgama_partners_h5_interstitial"
+            },
+            {
+              "ad_type": "rewarded",
+              "value": "playgama_partners_rewarded"
+            }
+          ],
+          "bidders": [
+            "playgama"
+          ]
+        },
+        {
+          "type": "gam-instream",
+          "ad_units_desktop": [
+            {
+              "ad_type": "interstitial",
+              "value": "playgama_partners_instream"
+            },
+            {
+              "ad_type": "rewarded",
+              "value": "playgama_partners_instream_rewarded"
+            }
+          ],
+          "ad_units_mobile": [
+            {
+              "ad_type": "interstitial",
+              "value": "playgama_partners_instream"
+            },
+            {
+              "ad_type": "rewarded",
+              "value": "playgama_partners_instream_rewarded"
+            }
+          ],
+          "bidders": [
+            "playgama"
+          ]
+        },
+        {
+          "type": "gam-banner-interstitial",
+          "ad_units_desktop": [
+            {
+              "ad_type": "interstitial",
+              "value": "playgama_partners_banner_ingame"
+            },
+            {
+              "ad_type": "rewarded",
+              "value": "playgama_partners_banner_ingame_rewarded"
+            }
+          ],
+          "ad_units_mobile": [
+            {
+              "ad_type": "interstitial",
+              "value": "playgama_partners_banner_ingame"
+            },
+            {
+              "ad_type": "rewarded",
+              "value": "playgama_partners_banner_ingame_rewarded"
+            }
+          ],
+          "bidders": [
+            "playgama"
+          ]
+        },
+        {
+          "type": "prebid-direct",
+          "bidders": [
+            "playgama_fallback"
+          ]
+        }
+      ]
+    },
+    {
+      "placements": [
+        "interstitial_preroll"
+      ],
+      "settings": [
+        {
+          "type": "gam-instream",
+          "ad_units_desktop": [
+            {
+              "ad_type": "interstitial_preroll",
+              "value": "playgama_partners_instream_preroll"
+            }
+          ],
+          "ad_units_mobile": [
+            {
+              "ad_type": "interstitial_preroll",
+              "value": "playgama_partners_instream_preroll"
+            }
+          ]
+        },
+        {
+          "type": "gam-instream",
+          "ad_units_desktop": [
+            {
+              "ad_type": "interstitial_preroll",
+              "value": "playgama_partners_instream_preroll_no_floor"
+            }
+          ],
+          "ad_units_mobile": [
+            {
+              "ad_type": "interstitial_preroll",
+              "value": "playgama_partners_instream_preroll_no_floor"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sdk_origin": "https://playgama.com"
+}

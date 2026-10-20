@@ -1,6 +1,7 @@
 {
   "publisherId": "lomboos",
   "sdkVersions": [
-    "v0.2"
+    "v0.2",
+    "v0.3"
   ]
 }

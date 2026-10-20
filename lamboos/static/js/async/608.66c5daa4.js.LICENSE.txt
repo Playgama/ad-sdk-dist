@@ -1,5 +1,0 @@
-/*
-* @license MIT
-* Fun Hooks v1.1.0
-* (c) @snapwich
-*/

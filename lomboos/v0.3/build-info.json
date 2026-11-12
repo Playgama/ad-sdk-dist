@@ -4,6 +4,6 @@
   "cdnUrl": "https://cdn.jsdelivr.net/gh/Playgama/ad-sdk-dist@main/lomboos/v0.3/ads-sdk.js",
   "configId": "default",
   "sourceConfig": "https://ssp.playgama.com/admin/api/site-config/resolve?clid=p_45fe156b-c360-4c08-8b47-1d618effbfb4",
-  "sourceCommit": "11476b042ad57be351bd6e0d5cccf433287a1edb",
-  "scriptSha256": "fdb53094e106d11b80acf277317b6c324e726dbe5026e7c7e09798fc10e60df4"
+  "sourceCommit": "8ca6293db51086cefab437f39082841cbdeab6ed",
+  "scriptSha256": "3d6310014e71beb92880a9468cc83546d306f90ffbbaff06b19646a4e7ed8c05"
 }
